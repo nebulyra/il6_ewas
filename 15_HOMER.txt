@@ -1,0 +1,3 @@
+# Performing TFBS enrichment analysis
+
+findMotifsGenome.pl IL6_HomerInput.tsv hg19 IL6/ -size 50
