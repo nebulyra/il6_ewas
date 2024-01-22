@@ -135,6 +135,6 @@ homer <- il6_top %>%
   select(cpg, cpg_chr_hg19, cpg_start_hg19, 
          cpg_end_hg19, cpg_strand)
 
-write_tsv(homer, file='..IL6_Data/Homer/IL6_HomerInput.tsv')
+write_tsv(homer, file='../IL6_Data/Homer/IL6_HomerInput.tsv')
 
 ##############################################################
